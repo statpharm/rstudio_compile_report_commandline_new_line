@@ -1,2 +1,8 @@
 rmarkdown::render("analysis.R")
 rmarkdown::render("analysis.R", "pdf_document")
+
+
+
+getwd()
+setwd("C:/Users/<username>/Desktop")
+rmarkdown::render("analysis.R")
