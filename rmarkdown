@@ -1,0 +1,2 @@
+rmarkdown::render("analysis.R")
+rmarkdown::render("analysis.R", "pdf_document")
