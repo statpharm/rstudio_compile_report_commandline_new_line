@@ -6,3 +6,15 @@ rmarkdown::render("analysis.R", "pdf_document")
 getwd()
 setwd("C:/Users/<username>/Desktop")
 rmarkdown::render("analysis.R")
+
+
+
+
+
+
+getwd()
+setwd( "C:/Users/Mkamal/pictures/test flex")
+dir()
+
+
+rmarkdown::render("draft1 -filled.Rmd")
