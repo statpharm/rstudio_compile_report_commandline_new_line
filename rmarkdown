@@ -7,9 +7,13 @@ getwd()
 setwd("C:/Users/<username>/Desktop")
 rmarkdown::render("analysis.R")
 
+https://rmarkdown.rstudio.com/articles_report_from_r_script.html
 
-
-
+#' ---
+#' title: "Crop Analysis Q3 2013"
+#' author: "John Smith"
+#' date: "May 3rd, 2014"
+#' ---
 
 
 getwd()
