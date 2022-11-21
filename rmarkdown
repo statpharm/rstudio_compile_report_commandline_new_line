@@ -1,6 +1,13 @@
 rmarkdown::render("analysis.R")
 rmarkdown::render("analysis.R", "pdf_document")
 
+## new block example
+
+## logistic regression model
+
+#'            <-----------------------------------------------------------------------------this here
+## ============ Technical Notes for Biostatisticians =======
+  
 
 
 getwd()
